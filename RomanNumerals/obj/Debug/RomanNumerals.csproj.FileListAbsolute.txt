@@ -1,0 +1,7 @@
+C:\Users\rdaniellagomez\source\repos\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.exe.config
+C:\Users\rdaniellagomez\source\repos\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.exe
+C:\Users\rdaniellagomez\source\repos\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.pdb
+C:\Users\rdaniellagomez\source\repos\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.csprojAssemblyReference.cache
+C:\Users\rdaniellagomez\source\repos\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\rdaniellagomez\source\repos\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.exe
+C:\Users\rdaniellagomez\source\repos\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.pdb
